@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_explore"
+            android:icon="@drawable/map_esprit"
+            android:title="Explore" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_personn"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_collegues"
+            android:icon="@drawable/friend_esprit"
+            android:title="Colleagues" />
+        <item
+            android:id="@+id/nav_event"
+            android:icon="@drawable/ic_event_available_black_24dp"
+            android:title="Events" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/message"
+            android:title="Chats" />
+        <item
+            android:id="@+id/nav_heatmap"
+            android:icon="@drawable/heatmap_esp"
+            android:title="Heatmap" />
+        <item
+            android:id="@+id/nav_mapBox"
+            android:icon="@drawable/mapbox_logo_icon"
+            android:title="MapBox" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/exit_esp"
+            android:title="logout" />
+    </group>
+
+
+
+</menu>

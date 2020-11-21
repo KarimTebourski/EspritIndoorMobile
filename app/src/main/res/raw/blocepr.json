@@ -1,0 +1,7 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[10.1902117430836,36.8998999107791,0]},"properties":{"name":"SIM","description":"floor: 1<br>lon: 10.190211743083639<br>lat: 36.89989991077911","floor":"1.0","lon":"10.190211743083639","lat":"36.89989991077911"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[10.1900097727776,36.8996300788131,0]},"properties":{"name":"Directeur Général","description":"floor: 1<br>lon: 10.19000977277756<br>lat: 36.89963007881311","floor":"1.0","lon":"10.19000977277756","lat":"36.89963007881311"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[10.1902055740356,36.8997105137131,0]},"properties":{"name":"Elevator","description":"floor: 1<br>lon: 10.190205574035646<br>lat: 36.89971051371313","floor":"1.0","lon":"10.190205574035646","lat":"36.89971051371313"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[10.1900486648083,36.8998392093768,0]},"properties":{"name":"Bathroom3","description":"floor: 1<br>lon: 10.190048664808275<br>lat: 36.89983920937682","floor":"1.0","lon":"10.190048664808275","lat":"36.89983920937682"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[10.1898984611034,36.8997973833099,0]},"properties":{"name":"Service Achat","description":"floor: 1<br>lon: 10.189898461103441<br>lat: 36.899797383309945","floor":"1.0","lon":"10.189898461103441","lat":"36.899797383309945"}}
+]}

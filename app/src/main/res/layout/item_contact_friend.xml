@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imagelist"
+            android:layout_width="87dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center"
+            android:src="@drawable/walid"
+            />
+
+        <TextView
+            android:id="@+id/nomFriend"
+            android:layout_width="158dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="le nom de mon ami"
+            android:textColor="@color/black"
+            android:textSize="20dp" />
+
+
+        <ImageButton
+            android:id="@+id/ajouterBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="51dp"
+            android:layout_margin="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_weight="1"
+            android:background="@drawable/carte"
+            app:srcCompat="@drawable/ic_person_add" />
+
+
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
